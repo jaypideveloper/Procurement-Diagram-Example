@@ -2,6 +2,8 @@
 
 An interactive, single-page diagram explaining how software engineering can make procurement easier, faster, and more reliable across a distributed operating business.
 
+Click here to view the interactive diagram: https://jaypideveloper.github.io/Procurement-Diagram-Example/
+
 ## Purpose
 
 This is a visual concept document, not a production procurement application. It demonstrates how a procurement team could connect a guided request experience, workflow automation, an ERP system of record, data engineering, and decision support into one coherent operating model.
