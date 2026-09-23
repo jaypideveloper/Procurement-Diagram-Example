@@ -9,19 +9,17 @@ Click here to view the interactive diagram: https://jaypideveloper.github.io/Pro
 This is a visual concept document, not a production procurement application. It demonstrates how a procurement team could connect a guided request experience, workflow automation, an ERP system of record, data engineering, and decision support into one coherent operating model.
 
 ## How to use the diagram
-
-1. Open `dist/index.html` in a modern browser.
-2. Select a lens at the top of the diagram:
+1. Select a lens at the top of the diagram:
    - **End-to-end system** shows the complete operating model.
    - **Requester journey** emphasizes the employee experience.
    - **Procurement team** emphasizes buyer work and approvals.
    - **Data and controls** emphasizes ERP integration, governance, and analytics.
-3. Select any numbered stage to read:
+2. Select any numbered stage to read:
    - the problem it addresses;
    - the proposed software improvement;
    - why the change matters; and
    - the components an engineering team would build.
-4. Use **Walk the flow** to advance through each stage in sequence.
+3. Use **Walk the flow** to advance through each stage in sequence.
 
 ## Core idea
 
@@ -60,10 +58,6 @@ The diagram follows seven stages:
 - Automate routing, not accountability.
 - Use AI for recommendations and preparation, not autonomous approval.
 - Measure whether the workflow actually improves procurement performance.
-
-## Running locally
-
-No build process or dependencies are required. Open `dist/index.html` directly, or serve the `dist` directory with any static web server.
 
 ## Disclaimer
 
